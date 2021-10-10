@@ -1,0 +1,11 @@
+﻿  DList.c
+  assistance_functions.c
+  free_functions.c
+  main_functions.c
+C:\Users\erez6\Desktop\לימודים\אקדמית יפו\שנה א\מדמח מתקדם\תרגילי בית\Suduko\Suduko\main_functions.c(226,57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  players_list.c
+  random_board_functions.c
+  sudoku.c
+  tree_functions.c
+  Generating Code...
+  Suduko.vcxproj -> C:\Users\erez6\Desktop\לימודים\אקדמית יפו\שנה א\מדמח מתקדם\תרגילי בית\Suduko\Debug\Suduko.exe
